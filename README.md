@@ -63,7 +63,7 @@ La **automatización** mediante RPA permite el cargue masivo de información en 
 los tiempos de ejecución, eliminando errores humanos y garantizando un proceso dinámico y eficiente.
 
 En este caso, la programación se realiza con Pulover’s Macro Creator (PMC). Para el ejemplo presentado, se diseñó un robot 
-que automatiza el cargue de información en la plataforma Oracle, integrando PMC con una macro en Excel. Esta conexión incrementa 
+que **automatiza el cargue** de información en la plataforma Oracle, integrando PMC con una macro en Excel. Esta conexión incrementa 
 la eficiencia del proceso y asegura una **gestión** confiable de grandes volúmenes de datos.
     
 ### Beneficios principales
@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/dbac50a4-6eec-45f6-af2d-107adad25057
 
 ### Diseño de tablero dinámico con indicadores clave de desempeño
 
-Se ha desarrollado un tablero dinámico que integra indicadores estratégicos relacionados con costos, 
+Se ha desarrollado un tablero dinámico que integra **indicadores estratégicos** relacionados con costos, 
 rechazos e incumplimientos a las BPM’s. El sistema permite un análisis detallado por:
 
 * Máquina
@@ -89,7 +89,7 @@ rechazos e incumplimientos a las BPM’s. El sistema permite un análisis detall
 * Periodo
 
 Este enfoque facilita el seguimiento preciso de la merma generada como costo interno, proporcionando información 
-crítica para la toma de decisiones. Con ello, la organización puede implementar acciones correctivas oportunas 
+crítica para la **toma de decisiones**. Con ello, la organización puede implementar acciones correctivas oportunas 
 y fortalecer su proceso de mejora continua.
 
 El tablero también ofrece un desglose específico de:
