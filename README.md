@@ -1,5 +1,5 @@
 # Analisis de datos
-A continuación muestro algunos de mis proyectos trabajados anteriormente en temas de analisis de datos y automatización de procesos.
+A continuación se presentan algunos de los proyectos desarrollados previamente en el ámbito de análisis de datos y automatización de procesos. Cada iniciativa refleja la aplicación de herramientas avanzadas para optimizar la gestión de información, mejorar la precisión en los resultados y reducir tiempos operativos.
 
 ## 1.Control estadistico
 Este módulo, desarrollado en Visual Basic for Applications (VBA) para Excel, **automatiza** la generación de informes estadísticos
