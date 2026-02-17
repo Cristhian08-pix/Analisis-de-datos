@@ -1,7 +1,7 @@
 # Analisis de datos
 A continuación se presentan algunos de los proyectos desarrollados previamente en el ámbito de análisis de datos y automatización de procesos. Cada iniciativa refleja la aplicación de herramientas avanzadas para optimizar la gestión de información, mejorar la precisión en los resultados y reducir tiempos operativos.
 
-## 1.Control estadistico
+## *1.Control estadistico*
 Este módulo, desarrollado en Visual Basic for Applications (VBA) para Excel, **automatiza** la generación de informes estadísticos
 con una capacidad de procesamiento de hasta 100,000 valores. 
 ### Precisión tecnica:
@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/8288ae8a-da34-4d62-820e-b59a3f67086e
 ***
 ***
 
-## 2. Reporte de pesos Regional
+## *2. Reporte de pesos Regional*
 La información cargada en Oracle es procesada mediante consultas SQL y **automatizada** a través de Power Query.
 Para ampliar la capacidad de análisis, se emplea el lenguaje DAX dentro de Power BI, logrando un alcance a nivel
 regional que incluye las plantas de México Norte, Monterrey y Puebla.
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/2a4e0eb1-06d4-4650-bf4e-5ce466ae3d72
 ***
 ___
 
-## 3. Automatización/Cargue de información con RPA(Robotic Process Automation)
+## *3. Automatización/Cargue de información con RPA(Robotic Process Automation)*
 
 La **automatización** mediante RPA permite el cargue masivo de información en cualquier plataforma, reduciendo significativamente
 los tiempos de ejecución, eliminando errores humanos y garantizando un proceso dinámico y eficiente.
@@ -76,7 +76,9 @@ la eficiencia del proceso y asegura una **gestión** confiable de grandes volúm
 https://github.com/user-attachments/assets/dbac50a4-6eec-45f6-af2d-107adad25057
 ***
 ***
-### 4. Analisis de costos/Buenas practicas de manufactura
+### *4. Analisis de costos/Buenas practicas de manufactura*
+
+
 
 
 
