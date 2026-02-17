@@ -76,13 +76,30 @@ la eficiencia del proceso y asegura una **gestión** confiable de grandes volúm
 https://github.com/user-attachments/assets/dbac50a4-6eec-45f6-af2d-107adad25057
 ***
 ***
-### *4. Analisis de costos/Buenas practicas de manufactura*
+## *4. Analisis de costos/Buenas practicas de manufactura*
+
+### Diseño de tablero dinámico con indicadores clave de desempeño
+
+Se ha desarrollado un tablero dinámico que integra indicadores estratégicos relacionados con costos, 
+rechazos e incumplimientos a las BPM’s. El sistema permite un análisis detallado por:
+
+* Máquina
+* Tecnología
+* Operador
+* Periodo
+
+Este enfoque facilita el seguimiento preciso de la merma generada como costo interno, proporcionando información 
+crítica para la toma de decisiones. Con ello, la organización puede implementar acciones correctivas oportunas 
+y fortalecer su proceso de mejora continua.
+
+El tablero también ofrece un desglose específico de:
+
+* Fallas por máquina
+* Rechazos por operador
+* Incumplimientos a las BPM’s
+
+Todo ello respaldado por un sistema de rastreo eficaz y altamente eficiente, 
+que asegura visibilidad integral y soporte a la gestión operativa.
 
 
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/04175973-3544-4067-a991-35de48f8dba2
