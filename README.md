@@ -23,8 +23,8 @@ El sistema permite evaluar la información con o sin especificaciones, adaptando
 En consecuencia permite un analisis estadistico **claro, completo, preciso y eficaz.**
 
 https://github.com/user-attachments/assets/8288ae8a-da34-4d62-820e-b59a3f67086e
-
-
+***
+***
 
 ## 2. Reporte de pesos Regional
 La información cargada en Oracle es procesada mediante consultas SQL y **automatizada** a través de Power Query.
@@ -54,8 +54,8 @@ El sistema **identifica** aquellos productos que se encuentran fuera de especifi
 Gracias a las tendencias y comportamientos presentados, se facilita la **supervisión** del peso y el control de consumos de resina.
 
 https://github.com/user-attachments/assets/2a4e0eb1-06d4-4650-bf4e-5ce466ae3d72
-
-
+***
+___
 
 ## 3. Automatización/Cargue de información con RPA(Robotic Process Automation)
 
@@ -74,6 +74,11 @@ la eficiencia del proceso y asegura una **gestión** confiable de grandes volúm
 * Integración eficiente entre herramientas (PMC, Excel, Oracle)
 
 https://github.com/user-attachments/assets/dbac50a4-6eec-45f6-af2d-107adad25057
+***
+***
+### 4. Analisis de costos/Buenas practicas de manufactura
+
+
 
 
 
